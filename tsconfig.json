@@ -1,0 +1,10 @@
+{
+	"extends": "./node_modules/@namics/ts-config/tsconfig.json",
+	"compilerOptions": {
+		"outDir": "dist",
+		"module": "commonjs",
+		"esModuleInterop": true,
+		"importHelpers": false
+	},
+	"exclude": ["dist", "node_modules", "tests"]
+}

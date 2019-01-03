@@ -1,0 +1,1714 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`convertToMergedFlameGraph default 1`] = `
+Object {
+  "children": Array [
+    Object {
+      "children": Array [
+        Object {
+          "children": Array [
+            Object {
+              "children": Array [
+                Object {
+                  "children": Array [
+                    Object {
+                      "children": Array [
+                        Object {
+                          "children": Array [
+                            Object {
+                              "children": Array [
+                                Object {
+                                  "children": Array [
+                                    Object {
+                                      "children": Array [
+                                        Object {
+                                          "children": Array [
+                                            Object {
+                                              "children": Array [
+                                                Object {
+                                                  "children": Array [
+                                                    Object {
+                                                      "children": Array [
+                                                        Object {
+                                                          "children": Array [
+                                                            Object {
+                                                              "children": Array [
+                                                                Object {
+                                                                  "children": Array [
+                                                                    Object {
+                                                                      "children": Array [],
+                                                                      "executionTime": 16320,
+                                                                      "name": "dispatch",
+                                                                      "nodeModule": undefined,
+                                                                      "parent": [Circular],
+                                                                      "profileNode": Object {
+                                                                        "callFrame": Object {
+                                                                          "columnNumber": -1,
+                                                                          "functionName": "dispatch",
+                                                                          "lineNumber": -1,
+                                                                          "scriptId": "0",
+                                                                          "url": "",
+                                                                        },
+                                                                        "hitCount": 0,
+                                                                        "id": 18,
+                                                                      },
+                                                                      "value": 16320,
+                                                                    },
+                                                                  ],
+                                                                  "executionTime": 16320,
+                                                                  "name": "post",
+                                                                  "nodeModule": undefined,
+                                                                  "parent": [Circular],
+                                                                  "profileNode": Object {
+                                                                    "callFrame": Object {
+                                                                      "columnNumber": 6,
+                                                                      "functionName": "post",
+                                                                      "lineNumber": 60,
+                                                                      "scriptId": "65",
+                                                                      "url": "inspector.js",
+                                                                    },
+                                                                    "children": Array [
+                                                                      18,
+                                                                    ],
+                                                                    "hitCount": 0,
+                                                                    "id": 17,
+                                                                  },
+                                                                  "value": 0,
+                                                                },
+                                                              ],
+                                                              "executionTime": 16320,
+                                                              "name": "session.post",
+                                                              "nodeModule": undefined,
+                                                              "parent": [Circular],
+                                                              "profileNode": Object {
+                                                                "callFrame": Object {
+                                                                  "columnNumber": 34,
+                                                                  "functionName": "session.post",
+                                                                  "lineNumber": 16,
+                                                                  "scriptId": "64",
+                                                                  "url": "file:///profile-plugin/index.js",
+                                                                },
+                                                                "children": Array [
+                                                                  17,
+                                                                ],
+                                                                "hitCount": 0,
+                                                                "id": 16,
+                                                              },
+                                                              "value": 0,
+                                                            },
+                                                          ],
+                                                          "executionTime": 16320,
+                                                          "name": "(anonymous function)",
+                                                          "nodeModule": undefined,
+                                                          "parent": [Circular],
+                                                          "profileNode": Object {
+                                                            "callFrame": Object {
+                                                              "columnNumber": 19,
+                                                              "functionName": "",
+                                                              "lineNumber": 43,
+                                                              "scriptId": "65",
+                                                              "url": "inspector.js",
+                                                            },
+                                                            "children": Array [
+                                                              16,
+                                                            ],
+                                                            "hitCount": 0,
+                                                            "id": 15,
+                                                          },
+                                                          "value": 0,
+                                                        },
+                                                      ],
+                                                      "executionTime": 16320,
+                                                      "name": "Connection",
+                                                      "nodeModule": undefined,
+                                                      "parent": [Circular],
+                                                      "profileNode": Object {
+                                                        "callFrame": Object {
+                                                          "columnNumber": 21,
+                                                          "functionName": "Connection",
+                                                          "lineNumber": 36,
+                                                          "scriptId": "65",
+                                                          "url": "inspector.js",
+                                                        },
+                                                        "children": Array [
+                                                          15,
+                                                        ],
+                                                        "hitCount": 0,
+                                                        "id": 14,
+                                                      },
+                                                      "value": 0,
+                                                    },
+                                                  ],
+                                                  "executionTime": 16320,
+                                                  "name": "dispatch",
+                                                  "nodeModule": undefined,
+                                                  "parent": [Circular],
+                                                  "profileNode": Object {
+                                                    "callFrame": Object {
+                                                      "columnNumber": -1,
+                                                      "functionName": "dispatch",
+                                                      "lineNumber": -1,
+                                                      "scriptId": "0",
+                                                      "url": "",
+                                                    },
+                                                    "children": Array [
+                                                      14,
+                                                    ],
+                                                    "hitCount": 0,
+                                                    "id": 13,
+                                                  },
+                                                  "value": 0,
+                                                },
+                                              ],
+                                              "executionTime": 16320,
+                                              "name": "post",
+                                              "nodeModule": undefined,
+                                              "parent": [Circular],
+                                              "profileNode": Object {
+                                                "callFrame": Object {
+                                                  "columnNumber": 6,
+                                                  "functionName": "post",
+                                                  "lineNumber": 60,
+                                                  "scriptId": "65",
+                                                  "url": "inspector.js",
+                                                },
+                                                "children": Array [
+                                                  13,
+                                                ],
+                                                "hitCount": 0,
+                                                "id": 12,
+                                              },
+                                              "value": 0,
+                                            },
+                                            Object {
+                                              "children": Array [
+                                                Object {
+                                                  "children": Array [
+                                                    Object {
+                                                      "children": Array [],
+                                                      "executionTime": 1531,
+                                                      "name": "TTY",
+                                                      "nodeModule": undefined,
+                                                      "parent": [Circular],
+                                                      "profileNode": Object {
+                                                        "callFrame": Object {
+                                                          "columnNumber": -1,
+                                                          "functionName": "TTY",
+                                                          "lineNumber": -1,
+                                                          "scriptId": "0",
+                                                          "url": "",
+                                                        },
+                                                        "hitCount": 1,
+                                                        "id": 21,
+                                                        "positionTicks": Array [
+                                                          Object {
+                                                            "line": 45,
+                                                            "ticks": 1,
+                                                          },
+                                                        ],
+                                                      },
+                                                      "value": 1531,
+                                                    },
+                                                    Object {
+                                                      "children": Array [
+                                                        Object {
+                                                          "children": Array [],
+                                                          "executionTime": 1291,
+                                                          "name": "Readable.read",
+                                                          "nodeModule": undefined,
+                                                          "parent": [Circular],
+                                                          "profileNode": Object {
+                                                            "callFrame": Object {
+                                                              "columnNumber": 34,
+                                                              "functionName": "Readable.read",
+                                                              "lineNumber": 371,
+                                                              "scriptId": "36",
+                                                              "url": "_stream_readable.js",
+                                                            },
+                                                            "hitCount": 1,
+                                                            "id": 23,
+                                                            "positionTicks": Array [
+                                                              Object {
+                                                                "line": 398,
+                                                                "ticks": 1,
+                                                              },
+                                                            ],
+                                                          },
+                                                          "value": 1291,
+                                                        },
+                                                      ],
+                                                      "executionTime": 1291,
+                                                      "name": "Socket",
+                                                      "nodeModule": undefined,
+                                                      "parent": [Circular],
+                                                      "profileNode": Object {
+                                                        "callFrame": Object {
+                                                          "columnNumber": 15,
+                                                          "functionName": "Socket",
+                                                          "lineNumber": 221,
+                                                          "scriptId": "59",
+                                                          "url": "net.js",
+                                                        },
+                                                        "children": Array [
+                                                          23,
+                                                        ],
+                                                        "hitCount": 0,
+                                                        "id": 22,
+                                                      },
+                                                      "value": 0,
+                                                    },
+                                                  ],
+                                                  "executionTime": 2822,
+                                                  "name": "ReadStream",
+                                                  "nodeModule": undefined,
+                                                  "parent": [Circular],
+                                                  "profileNode": Object {
+                                                    "callFrame": Object {
+                                                      "columnNumber": 19,
+                                                      "functionName": "ReadStream",
+                                                      "lineNumber": 37,
+                                                      "scriptId": "58",
+                                                      "url": "tty.js",
+                                                    },
+                                                    "children": Array [
+                                                      21,
+                                                      22,
+                                                    ],
+                                                    "hitCount": 0,
+                                                    "id": 20,
+                                                  },
+                                                  "value": 0,
+                                                },
+                                              ],
+                                              "executionTime": 2822,
+                                              "name": "getStdin",
+                                              "nodeModule": undefined,
+                                              "parent": [Circular],
+                                              "profileNode": Object {
+                                                "callFrame": Object {
+                                                  "columnNumber": 19,
+                                                  "functionName": "getStdin",
+                                                  "lineNumber": 41,
+                                                  "scriptId": "24",
+                                                  "url": "internal/process/stdio.js",
+                                                },
+                                                "children": Array [
+                                                  20,
+                                                ],
+                                                "hitCount": 0,
+                                                "id": 19,
+                                              },
+                                              "value": 0,
+                                            },
+                                          ],
+                                          "executionTime": 19142,
+                                          "name": "syncProfiling",
+                                          "nodeModule": undefined,
+                                          "parent": [Circular],
+                                          "profileNode": Object {
+                                            "callFrame": Object {
+                                              "columnNumber": 39,
+                                              "functionName": "syncProfiling",
+                                              "lineNumber": 6,
+                                              "scriptId": "64",
+                                              "url": "file:///profile-plugin/index.js",
+                                            },
+                                            "children": Array [
+                                              12,
+                                              19,
+                                            ],
+                                            "hitCount": 0,
+                                            "id": 11,
+                                          },
+                                          "value": 0,
+                                        },
+                                      ],
+                                      "executionTime": 19142,
+                                      "name": "(anonymous function)",
+                                      "nodeModule": undefined,
+                                      "parent": [Circular],
+                                      "profileNode": Object {
+                                        "callFrame": Object {
+                                          "columnNumber": 10,
+                                          "functionName": "",
+                                          "lineNumber": 0,
+                                          "scriptId": "63",
+                                          "url": "file:///profile-plugin/test.js",
+                                        },
+                                        "children": Array [
+                                          11,
+                                        ],
+                                        "hitCount": 0,
+                                        "id": 10,
+                                      },
+                                      "value": 0,
+                                    },
+                                  ],
+                                  "executionTime": 19142,
+                                  "name": "Module._compile",
+                                  "nodeModule": undefined,
+                                  "parent": [Circular],
+                                  "profileNode": Object {
+                                    "callFrame": Object {
+                                      "columnNumber": 36,
+                                      "functionName": "Module._compile",
+                                      "lineNumber": 648,
+                                      "scriptId": "54",
+                                      "url": "internal/modules/cjs/loader.js",
+                                    },
+                                    "children": Array [
+                                      10,
+                                    ],
+                                    "hitCount": 0,
+                                    "id": 9,
+                                  },
+                                  "value": 0,
+                                },
+                              ],
+                              "executionTime": 19142,
+                              "name": "Module._extensions..js",
+                              "nodeModule": undefined,
+                              "parent": [Circular],
+                              "profileNode": Object {
+                                "callFrame": Object {
+                                  "columnNumber": 36,
+                                  "functionName": "Module._extensions..js",
+                                  "lineNumber": 696,
+                                  "scriptId": "54",
+                                  "url": "internal/modules/cjs/loader.js",
+                                },
+                                "children": Array [
+                                  9,
+                                ],
+                                "hitCount": 0,
+                                "id": 8,
+                              },
+                              "value": 0,
+                            },
+                          ],
+                          "executionTime": 19142,
+                          "name": "Module.load",
+                          "nodeModule": undefined,
+                          "parent": [Circular],
+                          "profileNode": Object {
+                            "callFrame": Object {
+                              "columnNumber": 32,
+                              "functionName": "Module.load",
+                              "lineNumber": 588,
+                              "scriptId": "54",
+                              "url": "internal/modules/cjs/loader.js",
+                            },
+                            "children": Array [
+                              8,
+                            ],
+                            "hitCount": 0,
+                            "id": 7,
+                          },
+                          "value": 0,
+                        },
+                      ],
+                      "executionTime": 19142,
+                      "name": "tryModuleLoad",
+                      "nodeModule": undefined,
+                      "parent": [Circular],
+                      "profileNode": Object {
+                        "callFrame": Object {
+                          "columnNumber": 22,
+                          "functionName": "tryModuleLoad",
+                          "lineNumber": 533,
+                          "scriptId": "54",
+                          "url": "internal/modules/cjs/loader.js",
+                        },
+                        "children": Array [
+                          7,
+                        ],
+                        "hitCount": 0,
+                        "id": 6,
+                      },
+                      "value": 0,
+                    },
+                  ],
+                  "executionTime": 19142,
+                  "name": "Module._load",
+                  "nodeModule": undefined,
+                  "parent": [Circular],
+                  "profileNode": Object {
+                    "callFrame": Object {
+                      "columnNumber": 23,
+                      "functionName": "Module._load",
+                      "lineNumber": 500,
+                      "scriptId": "54",
+                      "url": "internal/modules/cjs/loader.js",
+                    },
+                    "children": Array [
+                      6,
+                    ],
+                    "hitCount": 0,
+                    "id": 5,
+                  },
+                  "value": 0,
+                },
+              ],
+              "executionTime": 19142,
+              "name": "Module.runMain",
+              "nodeModule": undefined,
+              "parent": [Circular],
+              "profileNode": Object {
+                "callFrame": Object {
+                  "columnNumber": 25,
+                  "functionName": "Module.runMain",
+                  "lineNumber": 727,
+                  "scriptId": "54",
+                  "url": "internal/modules/cjs/loader.js",
+                },
+                "children": Array [
+                  5,
+                ],
+                "hitCount": 1,
+                "id": 4,
+                "positionTicks": Array [
+                  Object {
+                    "line": 744,
+                    "ticks": 1,
+                  },
+                ],
+              },
+              "value": 0,
+            },
+            Object {
+              "children": Array [],
+              "executionTime": 1282,
+              "name": "Module.runMain",
+              "nodeModule": undefined,
+              "parent": [Circular],
+              "profileNode": Object {
+                "callFrame": Object {
+                  "columnNumber": 25,
+                  "functionName": "Module.runMain",
+                  "lineNumber": 727,
+                  "scriptId": "54",
+                  "url": "internal/modules/cjs/loader.js",
+                },
+                "children": Array [
+                  5,
+                ],
+                "hitCount": 1,
+                "id": 4,
+                "positionTicks": Array [
+                  Object {
+                    "line": 744,
+                    "ticks": 1,
+                  },
+                ],
+              },
+              "value": 1282,
+            },
+          ],
+          "executionTime": 20424,
+          "name": "startup",
+          "nodeModule": undefined,
+          "parent": [Circular],
+          "profileNode": Object {
+            "callFrame": Object {
+              "columnNumber": 18,
+              "functionName": "startup",
+              "lineNumber": 29,
+              "scriptId": "10",
+              "url": "internal/bootstrap/node.js",
+            },
+            "children": Array [
+              4,
+            ],
+            "hitCount": 0,
+            "id": 3,
+          },
+          "value": 0,
+        },
+      ],
+      "executionTime": 20424,
+      "name": "bootstrapNodeJSCore",
+      "nodeModule": undefined,
+      "parent": [Circular],
+      "profileNode": Object {
+        "callFrame": Object {
+          "columnNumber": 29,
+          "functionName": "bootstrapNodeJSCore",
+          "lineNumber": 14,
+          "scriptId": "10",
+          "url": "internal/bootstrap/node.js",
+        },
+        "children": Array [
+          3,
+        ],
+        "hitCount": 0,
+        "id": 2,
+      },
+      "value": 0,
+    },
+    Object {
+      "children": Array [],
+      "executionTime": 74852,
+      "name": "(program)",
+      "nodeModule": undefined,
+      "parent": [Circular],
+      "profileNode": Object {
+        "callFrame": Object {
+          "columnNumber": -1,
+          "functionName": "(program)",
+          "lineNumber": -1,
+          "scriptId": "0",
+          "url": "",
+        },
+        "hitCount": 7616,
+        "id": 24,
+      },
+      "value": 74852,
+    },
+    Object {
+      "children": Array [
+        Object {
+          "children": Array [
+            Object {
+              "children": Array [
+                Object {
+                  "children": Array [
+                    Object {
+                      "children": Array [
+                        Object {
+                          "children": Array [],
+                          "executionTime": 2701,
+                          "name": "consoleCall",
+                          "nodeModule": undefined,
+                          "parent": [Circular],
+                          "profileNode": Object {
+                            "callFrame": Object {
+                              "columnNumber": -1,
+                              "functionName": "consoleCall",
+                              "lineNumber": -1,
+                              "scriptId": "0",
+                              "url": "",
+                            },
+                            "children": Array [
+                              31,
+                            ],
+                            "hitCount": 2,
+                            "id": 30,
+                          },
+                          "value": 2701,
+                        },
+                        Object {
+                          "children": Array [
+                            Object {
+                              "children": Array [
+                                Object {
+                                  "children": Array [
+                                    Object {
+                                      "children": Array [],
+                                      "executionTime": 1254,
+                                      "name": "Writable.write",
+                                      "nodeModule": undefined,
+                                      "parent": [Circular],
+                                      "profileNode": Object {
+                                        "callFrame": Object {
+                                          "columnNumber": 35,
+                                          "functionName": "Writable.write",
+                                          "lineNumber": 267,
+                                          "scriptId": "40",
+                                          "url": "_stream_writable.js",
+                                        },
+                                        "children": Array [
+                                          34,
+                                        ],
+                                        "hitCount": 1,
+                                        "id": 33,
+                                        "positionTicks": Array [
+                                          Object {
+                                            "line": 294,
+                                            "ticks": 1,
+                                          },
+                                        ],
+                                      },
+                                      "value": 1254,
+                                    },
+                                    Object {
+                                      "children": Array [
+                                        Object {
+                                          "children": Array [
+                                            Object {
+                                              "children": Array [
+                                                Object {
+                                                  "children": Array [
+                                                    Object {
+                                                      "children": Array [
+                                                        Object {
+                                                          "children": Array [
+                                                            Object {
+                                                              "children": Array [
+                                                                Object {
+                                                                  "children": Array [],
+                                                                  "executionTime": 1041,
+                                                                  "name": "onwrite",
+                                                                  "nodeModule": undefined,
+                                                                  "parent": [Circular],
+                                                                  "profileNode": Object {
+                                                                    "callFrame": Object {
+                                                                      "columnNumber": 16,
+                                                                      "functionName": "onwrite",
+                                                                      "lineNumber": 444,
+                                                                      "scriptId": "40",
+                                                                      "url": "_stream_writable.js",
+                                                                    },
+                                                                    "hitCount": 1,
+                                                                    "id": 40,
+                                                                    "positionTicks": Array [
+                                                                      Object {
+                                                                        "line": 469,
+                                                                        "ticks": 1,
+                                                                      },
+                                                                    ],
+                                                                  },
+                                                                  "value": 1041,
+                                                                },
+                                                              ],
+                                                              "executionTime": 1041,
+                                                              "name": "afterWriteDispatched",
+                                                              "nodeModule": undefined,
+                                                              "parent": [Circular],
+                                                              "profileNode": Object {
+                                                                "callFrame": Object {
+                                                                  "columnNumber": 29,
+                                                                  "functionName": "afterWriteDispatched",
+                                                                  "lineNumber": 75,
+                                                                  "scriptId": "61",
+                                                                  "url": "internal/stream_base_commons.js",
+                                                                },
+                                                                "children": Array [
+                                                                  40,
+                                                                ],
+                                                                "hitCount": 0,
+                                                                "id": 39,
+                                                              },
+                                                              "value": 0,
+                                                            },
+                                                          ],
+                                                          "executionTime": 1041,
+                                                          "name": "writeGeneric",
+                                                          "nodeModule": undefined,
+                                                          "parent": [Circular],
+                                                          "profileNode": Object {
+                                                            "callFrame": Object {
+                                                              "columnNumber": 21,
+                                                              "functionName": "writeGeneric",
+                                                              "lineNumber": 69,
+                                                              "scriptId": "61",
+                                                              "url": "internal/stream_base_commons.js",
+                                                            },
+                                                            "children": Array [
+                                                              39,
+                                                            ],
+                                                            "hitCount": 0,
+                                                            "id": 38,
+                                                          },
+                                                          "value": 0,
+                                                        },
+                                                      ],
+                                                      "executionTime": 1041,
+                                                      "name": "Socket._writeGeneric",
+                                                      "nodeModule": undefined,
+                                                      "parent": [Circular],
+                                                      "profileNode": Object {
+                                                        "callFrame": Object {
+                                                          "columnNumber": 41,
+                                                          "functionName": "Socket._writeGeneric",
+                                                          "lineNumber": 686,
+                                                          "scriptId": "59",
+                                                          "url": "net.js",
+                                                        },
+                                                        "children": Array [
+                                                          38,
+                                                        ],
+                                                        "hitCount": 0,
+                                                        "id": 37,
+                                                      },
+                                                      "value": 0,
+                                                    },
+                                                  ],
+                                                  "executionTime": 1041,
+                                                  "name": "Socket._write",
+                                                  "nodeModule": undefined,
+                                                  "parent": [Circular],
+                                                  "profileNode": Object {
+                                                    "callFrame": Object {
+                                                      "columnNumber": 34,
+                                                      "functionName": "Socket._write",
+                                                      "lineNumber": 723,
+                                                      "scriptId": "59",
+                                                      "url": "net.js",
+                                                    },
+                                                    "children": Array [
+                                                      37,
+                                                    ],
+                                                    "hitCount": 0,
+                                                    "id": 36,
+                                                  },
+                                                  "value": 0,
+                                                },
+                                              ],
+                                              "executionTime": 1041,
+                                              "name": "doWrite",
+                                              "nodeModule": undefined,
+                                              "parent": [Circular],
+                                              "profileNode": Object {
+                                                "callFrame": Object {
+                                                  "columnNumber": 16,
+                                                  "functionName": "doWrite",
+                                                  "lineNumber": 399,
+                                                  "scriptId": "40",
+                                                  "url": "_stream_writable.js",
+                                                },
+                                                "children": Array [
+                                                  36,
+                                                ],
+                                                "hitCount": 0,
+                                                "id": 35,
+                                              },
+                                              "value": 0,
+                                            },
+                                          ],
+                                          "executionTime": 1041,
+                                          "name": "writeOrBuffer",
+                                          "nodeModule": undefined,
+                                          "parent": [Circular],
+                                          "profileNode": Object {
+                                            "callFrame": Object {
+                                              "columnNumber": 22,
+                                              "functionName": "writeOrBuffer",
+                                              "lineNumber": 359,
+                                              "scriptId": "40",
+                                              "url": "_stream_writable.js",
+                                            },
+                                            "children": Array [
+                                              35,
+                                            ],
+                                            "hitCount": 0,
+                                            "id": 34,
+                                          },
+                                          "value": 0,
+                                        },
+                                      ],
+                                      "executionTime": 1041,
+                                      "name": "Writable.write",
+                                      "nodeModule": undefined,
+                                      "parent": [Circular],
+                                      "profileNode": Object {
+                                        "callFrame": Object {
+                                          "columnNumber": 35,
+                                          "functionName": "Writable.write",
+                                          "lineNumber": 267,
+                                          "scriptId": "40",
+                                          "url": "_stream_writable.js",
+                                        },
+                                        "children": Array [
+                                          34,
+                                        ],
+                                        "hitCount": 1,
+                                        "id": 33,
+                                        "positionTicks": Array [
+                                          Object {
+                                            "line": 294,
+                                            "ticks": 1,
+                                          },
+                                        ],
+                                      },
+                                      "value": 0,
+                                    },
+                                  ],
+                                  "executionTime": 2295,
+                                  "name": "write",
+                                  "nodeModule": undefined,
+                                  "parent": [Circular],
+                                  "profileNode": Object {
+                                    "callFrame": Object {
+                                      "columnNumber": 14,
+                                      "functionName": "write",
+                                      "lineNumber": 142,
+                                      "scriptId": "57",
+                                      "url": "console.js",
+                                    },
+                                    "children": Array [
+                                      33,
+                                    ],
+                                    "hitCount": 0,
+                                    "id": 32,
+                                  },
+                                  "value": 0,
+                                },
+                              ],
+                              "executionTime": 2295,
+                              "name": "log",
+                              "nodeModule": undefined,
+                              "parent": [Circular],
+                              "profileNode": Object {
+                                "callFrame": Object {
+                                  "columnNumber": 36,
+                                  "functionName": "log",
+                                  "lineNumber": 195,
+                                  "scriptId": "57",
+                                  "url": "console.js",
+                                },
+                                "children": Array [
+                                  32,
+                                ],
+                                "hitCount": 0,
+                                "id": 31,
+                              },
+                              "value": 0,
+                            },
+                          ],
+                          "executionTime": 2295,
+                          "name": "consoleCall",
+                          "nodeModule": undefined,
+                          "parent": [Circular],
+                          "profileNode": Object {
+                            "callFrame": Object {
+                              "columnNumber": -1,
+                              "functionName": "consoleCall",
+                              "lineNumber": -1,
+                              "scriptId": "0",
+                              "url": "",
+                            },
+                            "children": Array [
+                              31,
+                            ],
+                            "hitCount": 2,
+                            "id": 30,
+                          },
+                          "value": 0,
+                        },
+                      ],
+                      "executionTime": 4996,
+                      "name": "setTimeout",
+                      "nodeModule": undefined,
+                      "parent": [Circular],
+                      "profileNode": Object {
+                        "callFrame": Object {
+                          "columnNumber": 11,
+                          "functionName": "setTimeout",
+                          "lineNumber": 2,
+                          "scriptId": "63",
+                          "url": "file:///profile-plugin/test.js",
+                        },
+                        "children": Array [
+                          30,
+                        ],
+                        "hitCount": 0,
+                        "id": 29,
+                      },
+                      "value": 0,
+                    },
+                  ],
+                  "executionTime": 4996,
+                  "name": "ontimeout",
+                  "nodeModule": undefined,
+                  "parent": [Circular],
+                  "profileNode": Object {
+                    "callFrame": Object {
+                      "columnNumber": 18,
+                      "functionName": "ontimeout",
+                      "lineNumber": 428,
+                      "scriptId": "51",
+                      "url": "timers.js",
+                    },
+                    "children": Array [
+                      29,
+                      41,
+                    ],
+                    "hitCount": 0,
+                    "id": 28,
+                  },
+                  "value": 0,
+                },
+              ],
+              "executionTime": 4996,
+              "name": "tryOnTimeout",
+              "nodeModule": undefined,
+              "parent": [Circular],
+              "profileNode": Object {
+                "callFrame": Object {
+                  "columnNumber": 21,
+                  "functionName": "tryOnTimeout",
+                  "lineNumber": 291,
+                  "scriptId": "51",
+                  "url": "timers.js",
+                },
+                "children": Array [
+                  28,
+                ],
+                "hitCount": 0,
+                "id": 27,
+              },
+              "value": 0,
+            },
+          ],
+          "executionTime": 4996,
+          "name": "listOnTimeout",
+          "nodeModule": undefined,
+          "parent": [Circular],
+          "profileNode": Object {
+            "callFrame": Object {
+              "columnNumber": 22,
+              "functionName": "listOnTimeout",
+              "lineNumber": 225,
+              "scriptId": "51",
+              "url": "timers.js",
+            },
+            "children": Array [
+              27,
+            ],
+            "hitCount": 0,
+            "id": 26,
+          },
+          "value": 0,
+        },
+      ],
+      "executionTime": 4996,
+      "name": "processTimers",
+      "nodeModule": undefined,
+      "parent": [Circular],
+      "profileNode": Object {
+        "callFrame": Object {
+          "columnNumber": 22,
+          "functionName": "processTimers",
+          "lineNumber": 219,
+          "scriptId": "51",
+          "url": "timers.js",
+        },
+        "children": Array [
+          26,
+        ],
+        "hitCount": 0,
+        "id": 25,
+      },
+      "value": 0,
+    },
+    Object {
+      "children": Array [],
+      "executionTime": 919539,
+      "name": "(program)",
+      "nodeModule": undefined,
+      "parent": [Circular],
+      "profileNode": Object {
+        "callFrame": Object {
+          "columnNumber": -1,
+          "functionName": "(program)",
+          "lineNumber": -1,
+          "scriptId": "0",
+          "url": "",
+        },
+        "hitCount": 7616,
+        "id": 24,
+      },
+      "value": 919539,
+    },
+    Object {
+      "children": Array [
+        Object {
+          "children": Array [
+            Object {
+              "children": Array [
+                Object {
+                  "children": Array [
+                    Object {
+                      "children": Array [
+                        Object {
+                          "children": Array [
+                            Object {
+                              "children": Array [
+                                Object {
+                                  "children": Array [
+                                    Object {
+                                      "children": Array [],
+                                      "executionTime": 1311,
+                                      "name": "read",
+                                      "nodeModule": undefined,
+                                      "parent": [Circular],
+                                      "profileNode": Object {
+                                        "callFrame": Object {
+                                          "columnNumber": -1,
+                                          "functionName": "read",
+                                          "lineNumber": -1,
+                                          "scriptId": "0",
+                                          "url": "",
+                                        },
+                                        "hitCount": 1,
+                                        "id": 45,
+                                        "positionTicks": Array [
+                                          Object {
+                                            "line": 489,
+                                            "ticks": 1,
+                                          },
+                                        ],
+                                      },
+                                      "value": 1311,
+                                    },
+                                  ],
+                                  "executionTime": 1311,
+                                  "name": "readSync",
+                                  "nodeModule": undefined,
+                                  "parent": [Circular],
+                                  "profileNode": Object {
+                                    "callFrame": Object {
+                                      "columnNumber": 17,
+                                      "functionName": "readSync",
+                                      "lineNumber": 471,
+                                      "scriptId": "27",
+                                      "url": "fs.js",
+                                    },
+                                    "children": Array [
+                                      45,
+                                    ],
+                                    "hitCount": 0,
+                                    "id": 44,
+                                  },
+                                  "value": 0,
+                                },
+                              ],
+                              "executionTime": 1311,
+                              "name": "tryReadSync",
+                              "nodeModule": undefined,
+                              "parent": [Circular],
+                              "profileNode": Object {
+                                "callFrame": Object {
+                                  "columnNumber": 20,
+                                  "functionName": "tryReadSync",
+                                  "lineNumber": 325,
+                                  "scriptId": "27",
+                                  "url": "fs.js",
+                                },
+                                "children": Array [
+                                  44,
+                                ],
+                                "hitCount": 1,
+                                "id": 43,
+                                "positionTicks": Array [
+                                  Object {
+                                    "line": 330,
+                                    "ticks": 1,
+                                  },
+                                ],
+                              },
+                              "value": 0,
+                            },
+                          ],
+                          "executionTime": 1311,
+                          "name": "readFileSync",
+                          "nodeModule": undefined,
+                          "parent": [Circular],
+                          "profileNode": Object {
+                            "callFrame": Object {
+                              "columnNumber": 21,
+                              "functionName": "readFileSync",
+                              "lineNumber": 337,
+                              "scriptId": "27",
+                              "url": "fs.js",
+                            },
+                            "children": Array [
+                              43,
+                              46,
+                            ],
+                            "hitCount": 0,
+                            "id": 42,
+                          },
+                          "value": 0,
+                        },
+                      ],
+                      "executionTime": 1311,
+                      "name": "setInterval",
+                      "nodeModule": undefined,
+                      "parent": [Circular],
+                      "profileNode": Object {
+                        "callFrame": Object {
+                          "columnNumber": 29,
+                          "functionName": "setInterval",
+                          "lineNumber": 8,
+                          "scriptId": "63",
+                          "url": "file:///profile-plugin/test.js",
+                        },
+                        "children": Array [
+                          42,
+                        ],
+                        "hitCount": 0,
+                        "id": 41,
+                      },
+                      "value": 0,
+                    },
+                  ],
+                  "executionTime": 1311,
+                  "name": "ontimeout",
+                  "nodeModule": undefined,
+                  "parent": [Circular],
+                  "profileNode": Object {
+                    "callFrame": Object {
+                      "columnNumber": 18,
+                      "functionName": "ontimeout",
+                      "lineNumber": 428,
+                      "scriptId": "51",
+                      "url": "timers.js",
+                    },
+                    "children": Array [
+                      29,
+                      41,
+                    ],
+                    "hitCount": 0,
+                    "id": 28,
+                  },
+                  "value": 0,
+                },
+              ],
+              "executionTime": 1311,
+              "name": "tryOnTimeout",
+              "nodeModule": undefined,
+              "parent": [Circular],
+              "profileNode": Object {
+                "callFrame": Object {
+                  "columnNumber": 21,
+                  "functionName": "tryOnTimeout",
+                  "lineNumber": 291,
+                  "scriptId": "51",
+                  "url": "timers.js",
+                },
+                "children": Array [
+                  28,
+                ],
+                "hitCount": 0,
+                "id": 27,
+              },
+              "value": 0,
+            },
+          ],
+          "executionTime": 1311,
+          "name": "listOnTimeout",
+          "nodeModule": undefined,
+          "parent": [Circular],
+          "profileNode": Object {
+            "callFrame": Object {
+              "columnNumber": 22,
+              "functionName": "listOnTimeout",
+              "lineNumber": 225,
+              "scriptId": "51",
+              "url": "timers.js",
+            },
+            "children": Array [
+              27,
+            ],
+            "hitCount": 0,
+            "id": 26,
+          },
+          "value": 0,
+        },
+      ],
+      "executionTime": 1311,
+      "name": "processTimers",
+      "nodeModule": undefined,
+      "parent": [Circular],
+      "profileNode": Object {
+        "callFrame": Object {
+          "columnNumber": 22,
+          "functionName": "processTimers",
+          "lineNumber": 219,
+          "scriptId": "51",
+          "url": "timers.js",
+        },
+        "children": Array [
+          26,
+        ],
+        "hitCount": 0,
+        "id": 25,
+      },
+      "value": 0,
+    },
+    Object {
+      "children": Array [],
+      "executionTime": 2999040,
+      "name": "(program)",
+      "nodeModule": undefined,
+      "parent": [Circular],
+      "profileNode": Object {
+        "callFrame": Object {
+          "columnNumber": -1,
+          "functionName": "(program)",
+          "lineNumber": -1,
+          "scriptId": "0",
+          "url": "",
+        },
+        "hitCount": 7616,
+        "id": 24,
+      },
+      "value": 2999040,
+    },
+    Object {
+      "children": Array [
+        Object {
+          "children": Array [
+            Object {
+              "children": Array [
+                Object {
+                  "children": Array [
+                    Object {
+                      "children": Array [
+                        Object {
+                          "children": Array [
+                            Object {
+                              "children": Array [
+                                Object {
+                                  "children": Array [],
+                                  "executionTime": 1281,
+                                  "name": "open",
+                                  "nodeModule": undefined,
+                                  "parent": [Circular],
+                                  "profileNode": Object {
+                                    "callFrame": Object {
+                                      "columnNumber": -1,
+                                      "functionName": "open",
+                                      "lineNumber": -1,
+                                      "scriptId": "0",
+                                      "url": "",
+                                    },
+                                    "hitCount": 1,
+                                    "id": 47,
+                                    "positionTicks": Array [
+                                      Object {
+                                        "line": 433,
+                                        "ticks": 1,
+                                      },
+                                    ],
+                                  },
+                                  "value": 1281,
+                                },
+                              ],
+                              "executionTime": 1281,
+                              "name": "openSync",
+                              "nodeModule": undefined,
+                              "parent": [Circular],
+                              "profileNode": Object {
+                                "callFrame": Object {
+                                  "columnNumber": 17,
+                                  "functionName": "openSync",
+                                  "lineNumber": 425,
+                                  "scriptId": "27",
+                                  "url": "fs.js",
+                                },
+                                "children": Array [
+                                  47,
+                                ],
+                                "hitCount": 0,
+                                "id": 46,
+                              },
+                              "value": 0,
+                            },
+                          ],
+                          "executionTime": 1281,
+                          "name": "readFileSync",
+                          "nodeModule": undefined,
+                          "parent": [Circular],
+                          "profileNode": Object {
+                            "callFrame": Object {
+                              "columnNumber": 21,
+                              "functionName": "readFileSync",
+                              "lineNumber": 337,
+                              "scriptId": "27",
+                              "url": "fs.js",
+                            },
+                            "children": Array [
+                              43,
+                              46,
+                            ],
+                            "hitCount": 0,
+                            "id": 42,
+                          },
+                          "value": 0,
+                        },
+                      ],
+                      "executionTime": 1281,
+                      "name": "setInterval",
+                      "nodeModule": undefined,
+                      "parent": [Circular],
+                      "profileNode": Object {
+                        "callFrame": Object {
+                          "columnNumber": 29,
+                          "functionName": "setInterval",
+                          "lineNumber": 8,
+                          "scriptId": "63",
+                          "url": "file:///profile-plugin/test.js",
+                        },
+                        "children": Array [
+                          42,
+                        ],
+                        "hitCount": 0,
+                        "id": 41,
+                      },
+                      "value": 0,
+                    },
+                  ],
+                  "executionTime": 1281,
+                  "name": "ontimeout",
+                  "nodeModule": undefined,
+                  "parent": [Circular],
+                  "profileNode": Object {
+                    "callFrame": Object {
+                      "columnNumber": 18,
+                      "functionName": "ontimeout",
+                      "lineNumber": 428,
+                      "scriptId": "51",
+                      "url": "timers.js",
+                    },
+                    "children": Array [
+                      29,
+                      41,
+                    ],
+                    "hitCount": 0,
+                    "id": 28,
+                  },
+                  "value": 0,
+                },
+              ],
+              "executionTime": 1281,
+              "name": "tryOnTimeout",
+              "nodeModule": undefined,
+              "parent": [Circular],
+              "profileNode": Object {
+                "callFrame": Object {
+                  "columnNumber": 21,
+                  "functionName": "tryOnTimeout",
+                  "lineNumber": 291,
+                  "scriptId": "51",
+                  "url": "timers.js",
+                },
+                "children": Array [
+                  28,
+                ],
+                "hitCount": 0,
+                "id": 27,
+              },
+              "value": 0,
+            },
+          ],
+          "executionTime": 1281,
+          "name": "listOnTimeout",
+          "nodeModule": undefined,
+          "parent": [Circular],
+          "profileNode": Object {
+            "callFrame": Object {
+              "columnNumber": 22,
+              "functionName": "listOnTimeout",
+              "lineNumber": 225,
+              "scriptId": "51",
+              "url": "timers.js",
+            },
+            "children": Array [
+              27,
+            ],
+            "hitCount": 0,
+            "id": 26,
+          },
+          "value": 0,
+        },
+      ],
+      "executionTime": 1281,
+      "name": "processTimers",
+      "nodeModule": undefined,
+      "parent": [Circular],
+      "profileNode": Object {
+        "callFrame": Object {
+          "columnNumber": 22,
+          "functionName": "processTimers",
+          "lineNumber": 219,
+          "scriptId": "51",
+          "url": "timers.js",
+        },
+        "children": Array [
+          26,
+        ],
+        "hitCount": 0,
+        "id": 25,
+      },
+      "value": 0,
+    },
+    Object {
+      "children": Array [],
+      "executionTime": 3998953,
+      "name": "(program)",
+      "nodeModule": undefined,
+      "parent": [Circular],
+      "profileNode": Object {
+        "callFrame": Object {
+          "columnNumber": -1,
+          "functionName": "(program)",
+          "lineNumber": -1,
+          "scriptId": "0",
+          "url": "",
+        },
+        "hitCount": 7616,
+        "id": 24,
+      },
+      "value": 3998953,
+    },
+    Object {
+      "children": Array [
+        Object {
+          "children": Array [
+            Object {
+              "children": Array [
+                Object {
+                  "children": Array [
+                    Object {
+                      "children": Array [
+                        Object {
+                          "children": Array [
+                            Object {
+                              "children": Array [],
+                              "executionTime": 1274,
+                              "name": "tryReadSync",
+                              "nodeModule": undefined,
+                              "parent": [Circular],
+                              "profileNode": Object {
+                                "callFrame": Object {
+                                  "columnNumber": 20,
+                                  "functionName": "tryReadSync",
+                                  "lineNumber": 325,
+                                  "scriptId": "27",
+                                  "url": "fs.js",
+                                },
+                                "children": Array [
+                                  44,
+                                ],
+                                "hitCount": 1,
+                                "id": 43,
+                                "positionTicks": Array [
+                                  Object {
+                                    "line": 330,
+                                    "ticks": 1,
+                                  },
+                                ],
+                              },
+                              "value": 1274,
+                            },
+                          ],
+                          "executionTime": 1274,
+                          "name": "readFileSync",
+                          "nodeModule": undefined,
+                          "parent": [Circular],
+                          "profileNode": Object {
+                            "callFrame": Object {
+                              "columnNumber": 21,
+                              "functionName": "readFileSync",
+                              "lineNumber": 337,
+                              "scriptId": "27",
+                              "url": "fs.js",
+                            },
+                            "children": Array [
+                              43,
+                              46,
+                            ],
+                            "hitCount": 0,
+                            "id": 42,
+                          },
+                          "value": 0,
+                        },
+                      ],
+                      "executionTime": 1274,
+                      "name": "setInterval",
+                      "nodeModule": undefined,
+                      "parent": [Circular],
+                      "profileNode": Object {
+                        "callFrame": Object {
+                          "columnNumber": 29,
+                          "functionName": "setInterval",
+                          "lineNumber": 8,
+                          "scriptId": "63",
+                          "url": "file:///profile-plugin/test.js",
+                        },
+                        "children": Array [
+                          42,
+                        ],
+                        "hitCount": 0,
+                        "id": 41,
+                      },
+                      "value": 0,
+                    },
+                  ],
+                  "executionTime": 1274,
+                  "name": "ontimeout",
+                  "nodeModule": undefined,
+                  "parent": [Circular],
+                  "profileNode": Object {
+                    "callFrame": Object {
+                      "columnNumber": 18,
+                      "functionName": "ontimeout",
+                      "lineNumber": 428,
+                      "scriptId": "51",
+                      "url": "timers.js",
+                    },
+                    "children": Array [
+                      29,
+                      41,
+                    ],
+                    "hitCount": 0,
+                    "id": 28,
+                  },
+                  "value": 0,
+                },
+              ],
+              "executionTime": 1274,
+              "name": "tryOnTimeout",
+              "nodeModule": undefined,
+              "parent": [Circular],
+              "profileNode": Object {
+                "callFrame": Object {
+                  "columnNumber": 21,
+                  "functionName": "tryOnTimeout",
+                  "lineNumber": 291,
+                  "scriptId": "51",
+                  "url": "timers.js",
+                },
+                "children": Array [
+                  28,
+                ],
+                "hitCount": 0,
+                "id": 27,
+              },
+              "value": 0,
+            },
+          ],
+          "executionTime": 1274,
+          "name": "listOnTimeout",
+          "nodeModule": undefined,
+          "parent": [Circular],
+          "profileNode": Object {
+            "callFrame": Object {
+              "columnNumber": 22,
+              "functionName": "listOnTimeout",
+              "lineNumber": 225,
+              "scriptId": "51",
+              "url": "timers.js",
+            },
+            "children": Array [
+              27,
+            ],
+            "hitCount": 0,
+            "id": 26,
+          },
+          "value": 0,
+        },
+      ],
+      "executionTime": 1274,
+      "name": "processTimers",
+      "nodeModule": undefined,
+      "parent": [Circular],
+      "profileNode": Object {
+        "callFrame": Object {
+          "columnNumber": 22,
+          "functionName": "processTimers",
+          "lineNumber": 219,
+          "scriptId": "51",
+          "url": "timers.js",
+        },
+        "children": Array [
+          26,
+        ],
+        "hitCount": 0,
+        "id": 25,
+      },
+      "value": 0,
+    },
+    Object {
+      "children": Array [],
+      "executionTime": 1998334,
+      "name": "(program)",
+      "nodeModule": undefined,
+      "parent": [Circular],
+      "profileNode": Object {
+        "callFrame": Object {
+          "columnNumber": -1,
+          "functionName": "(program)",
+          "lineNumber": -1,
+          "scriptId": "0",
+          "url": "",
+        },
+        "hitCount": 7616,
+        "id": 24,
+      },
+      "value": 1998334,
+    },
+    Object {
+      "children": Array [
+        Object {
+          "children": Array [],
+          "executionTime": 1374,
+          "name": "process.on",
+          "nodeModule": undefined,
+          "parent": [Circular],
+          "profileNode": Object {
+            "callFrame": Object {
+              "columnNumber": 21,
+              "functionName": "process.on",
+              "lineNumber": 41,
+              "scriptId": "64",
+              "url": "file:///profile-plugin/index.js",
+            },
+            "hitCount": 1,
+            "id": 49,
+            "positionTicks": Array [
+              Object {
+                "line": 42,
+                "ticks": 1,
+              },
+            ],
+          },
+          "value": 1374,
+        },
+      ],
+      "executionTime": 1374,
+      "name": "emit",
+      "nodeModule": undefined,
+      "parent": [Circular],
+      "profileNode": Object {
+        "callFrame": Object {
+          "columnNumber": 43,
+          "functionName": "emit",
+          "lineNumber": 139,
+          "scriptId": "11",
+          "url": "events.js",
+        },
+        "children": Array [
+          49,
+        ],
+        "hitCount": 0,
+        "id": 48,
+      },
+      "value": 0,
+    },
+  ],
+  "executionTime": 10021378,
+  "name": "(root)",
+  "nodeModule": undefined,
+  "profileNode": Object {
+    "callFrame": Object {
+      "columnNumber": -1,
+      "functionName": "(root)",
+      "lineNumber": -1,
+      "scriptId": "0",
+      "url": "",
+    },
+    "children": Array [
+      2,
+      24,
+      25,
+      48,
+    ],
+    "hitCount": 0,
+    "id": 1,
+  },
+  "value": 0,
+}
+`;
